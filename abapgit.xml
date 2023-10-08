@@ -3,14 +3,10 @@
  <asx:values>
   <DATA>
    <MASTER_LANGUAGE>P</MASTER_LANGUAGE>
-   <STARTING_FOLDER>/S4/Fiori/RAP/3C/MovimentacaoDeVerba/src/</STARTING_FOLDER>
+   <STARTING_FOLDER>/BTPTRIAL/</STARTING_FOLDER>
    <FOLDER_LOGIC>PREFIX</FOLDER_LOGIC>
    <IGNORE>
-    <item>*.xml</item>
-    <item>*.srvdsrv</item>
-    <item>*.baseinfo</item>
-    <item>*.wapa*</item>
-    <item>*.zip*</item>
+   
    </IGNORE>
   </DATA>
  </asx:values>
