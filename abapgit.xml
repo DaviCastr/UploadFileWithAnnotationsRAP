@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+ <asx:values>
+  <DATA>
+   <MASTER_LANGUAGE>P</MASTER_LANGUAGE>
+   <STARTING_FOLDER>/S4/Fiori/RAP/3C/MovimentacaoDeVerba/src/</STARTING_FOLDER>
+   <FOLDER_LOGIC>PREFIX</FOLDER_LOGIC>
+   <IGNORE>
+    <item>*.xml</item>
+    <item>*.srvdsrv</item>
+    <item>*.baseinfo</item>
+    <item>*.wapa*</item>
+    <item>*.zip*</item>
+   </IGNORE>
+  </DATA>
+ </asx:values>
+</asx:abap>
