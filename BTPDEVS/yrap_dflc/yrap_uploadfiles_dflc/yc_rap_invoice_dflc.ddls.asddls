@@ -5,14 +5,15 @@ define root view entity YC_RAP_INVOICE_DFLC
   provider contract transactional_query
   as projection on YI_RAP_INVOICE_DFLC
 {
-  key Invoice,
+  key Guid,
+      Invoice,
       Comments,
       Attachment,
       MimeType,
       Filename,
-      LocalCreatedBy,
-      LocalCreatedAt,
-      LocalLastChangedBy,
-      LocalLastChangedAt,
-      LastChangedAt
+      CreatedBy,
+      CreatedAt,
+      LastChangedBy,
+      LastChangedAt,
+      LocalLastChangedAt
 }
