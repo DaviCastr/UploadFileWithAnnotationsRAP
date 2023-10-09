@@ -1,5 +1,3 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/DaviCastr/ABAPGITBTP)](https://api.reuse.software/info/github.com/DaviCastr/ABAPGITBTP)
-
 # Descrição
 
 Reporsitório referente aos desenvolvimentos realizados no BTP da SAP.
