@@ -1,4 +1,4 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/cloud-abap-rap)](https://api.reuse.software/info/github.com/SAP-samples/cloud-abap-rap)
+[![REUSE status](https://api.reuse.software/badge/github.com/DaviCastr/ABAPGITBTP)](https://api.reuse.software/info/github.com/DaviCastr/ABAPGITBTP)
 
 # Descrição
 
