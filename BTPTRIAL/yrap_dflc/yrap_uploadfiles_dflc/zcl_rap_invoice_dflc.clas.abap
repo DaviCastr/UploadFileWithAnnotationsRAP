@@ -1,5 +1,0 @@
-CLASS zcl_rap_invoice_dflc DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF yi_rap_invoice_dflc.
-ENDCLASS.
-
-CLASS zcl_rap_invoice_dflc IMPLEMENTATION.
-ENDCLASS.
