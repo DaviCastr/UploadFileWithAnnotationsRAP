@@ -1,2 +1,2 @@
 # ABAPGITBTP
-Abap git para btp trial desenvolvimentos
+Abap git para desenvolvimentos realizados no btp.
