@@ -7,9 +7,9 @@ implementation in class zcl_rap_invoice_dflc unique
 persistent table ytbrap_invc_dflc
 draft table ytbrap_indf_dflc
 lock master
-total etag LocalLastChangedAt
+total etag LastChangedAt
 authorization master ( instance )
-etag master LastChangedAt
+etag master LocalLastChangedAt
 {
   // administrative fields: read only
   field ( readonly ) LastChangedAt, LastChangedBy, LocalLastChangedAt, CreatedBy,
