@@ -1,7 +1,18 @@
 # Descrição
+Aplicativo com upload de arquivo(único) 
 
-Reporsitório referente aos desenvolvimentos realizados no BTP da SAP.
+# Telas do app
 
-**Desenvolvimentos RAP**  
-1. [Upload de arquivos usando anotações de CDS](BTPDEVS/yrap_dflc/yrap_uploadfiles_dflc).
+1. Tela inicial
 
+    ![Início](img/telainicial.png)
+
+2. Tela de detalhes
+
+    Odata v2
+
+    ![Detalhes  odata v2](img/detalhesodatav2.png)
+    
+    Odata v4
+    
+    ![Detalhes  odata v4](img/detalhesodatav4.png)
