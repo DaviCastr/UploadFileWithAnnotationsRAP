@@ -9,7 +9,7 @@ Obs: para o funcionamento é necessário seguir o padrão rascunho/esbouço(draf
 
 2. Tela de detalhes
 
-    Odata v2
+    Odata v2 - vale ressaltar que o teste foi realizado em ambiente cloud-trial, foi identificado em algumas pesquisas que há algumas limitações/não funcionamento quando se utiliza odata-v2
 
     ![Detalhes  odata v2](img/detalhesodatav2.png)
     
