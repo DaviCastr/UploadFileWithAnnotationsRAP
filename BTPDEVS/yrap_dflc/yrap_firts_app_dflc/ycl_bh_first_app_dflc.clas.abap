@@ -1,5 +1,0 @@
-CLASS ycl_bh_first_app_dflc DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF yi_first_app_dflc.
-ENDCLASS.
-
-CLASS ycl_bh_first_app_dflc IMPLEMENTATION.
-ENDCLASS.
